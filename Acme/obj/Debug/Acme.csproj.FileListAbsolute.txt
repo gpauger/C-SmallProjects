@@ -1,0 +1,7 @@
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\Acme\Acme\bin\Debug\Acme.exe.config
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\Acme\Acme\bin\Debug\Acme.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\Acme\Acme\bin\Debug\Acme.pdb
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\Acme\Acme\obj\Debug\Acme.csprojAssemblyReference.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\Acme\Acme\obj\Debug\Acme.csproj.CoreCompileInputs.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\Acme\Acme\obj\Debug\Acme.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\Acme\Acme\obj\Debug\Acme.pdb
