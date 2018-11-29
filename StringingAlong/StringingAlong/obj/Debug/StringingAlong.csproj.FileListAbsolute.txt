@@ -1,0 +1,7 @@
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\StringingAlong\StringingAlong\bin\Debug\StringingAlong.exe.config
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\StringingAlong\StringingAlong\bin\Debug\StringingAlong.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\StringingAlong\StringingAlong\bin\Debug\StringingAlong.pdb
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\StringingAlong\StringingAlong\obj\Debug\StringingAlong.csprojAssemblyReference.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\StringingAlong\StringingAlong\obj\Debug\StringingAlong.csproj.CoreCompileInputs.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\StringingAlong\StringingAlong\obj\Debug\StringingAlong.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\StringingAlong\StringingAlong\obj\Debug\StringingAlong.pdb
