@@ -1,0 +1,7 @@
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csprojAssemblyReference.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe.config
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\GuessNumber\GuessNumber\obj\Debug\GuessNumber.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb
