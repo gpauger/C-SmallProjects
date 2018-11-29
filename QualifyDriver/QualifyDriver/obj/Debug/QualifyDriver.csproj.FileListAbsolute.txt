@@ -1,0 +1,7 @@
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\QualifyDriver\QualifyDriver\bin\Debug\QualifyDriver.exe.config
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\QualifyDriver\QualifyDriver\bin\Debug\QualifyDriver.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\QualifyDriver\QualifyDriver\bin\Debug\QualifyDriver.pdb
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\QualifyDriver\QualifyDriver\obj\Debug\QualifyDriver.csprojAssemblyReference.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\QualifyDriver\QualifyDriver\obj\Debug\QualifyDriver.csproj.CoreCompileInputs.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\QualifyDriver\QualifyDriver\obj\Debug\QualifyDriver.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\QualifyDriver\QualifyDriver\obj\Debug\QualifyDriver.pdb
