@@ -1,0 +1,7 @@
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\PackageApp\PackageApp\obj\Debug\PackageApp.csprojAssemblyReference.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\PackageApp\PackageApp\obj\Debug\PackageApp.csproj.CoreCompileInputs.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\PackageApp\PackageApp\bin\Debug\PackageApp.exe.config
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\PackageApp\PackageApp\bin\Debug\PackageApp.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\PackageApp\PackageApp\bin\Debug\PackageApp.pdb
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\PackageApp\PackageApp\obj\Debug\PackageApp.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\PackageApp\PackageApp\obj\Debug\PackageApp.pdb
