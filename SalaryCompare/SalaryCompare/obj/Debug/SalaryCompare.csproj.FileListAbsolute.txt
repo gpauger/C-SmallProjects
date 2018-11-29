@@ -1,0 +1,7 @@
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\SalaryCompare\SalaryCompare\bin\Debug\SalaryCompare.exe.config
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\SalaryCompare\SalaryCompare\bin\Debug\SalaryCompare.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\SalaryCompare\SalaryCompare\bin\Debug\SalaryCompare.pdb
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\SalaryCompare\SalaryCompare\obj\Debug\SalaryCompare.csprojAssemblyReference.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\SalaryCompare\SalaryCompare\obj\Debug\SalaryCompare.csproj.CoreCompileInputs.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\SalaryCompare\SalaryCompare\obj\Debug\SalaryCompare.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\SalaryCompare\SalaryCompare\obj\Debug\SalaryCompare.pdb
