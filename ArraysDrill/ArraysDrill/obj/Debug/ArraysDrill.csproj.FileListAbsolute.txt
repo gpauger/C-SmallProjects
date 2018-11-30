@@ -1,0 +1,7 @@
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\ArraysDrill\ArraysDrill\bin\Debug\ArraysDrill.exe.config
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\ArraysDrill\ArraysDrill\bin\Debug\ArraysDrill.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\ArraysDrill\ArraysDrill\bin\Debug\ArraysDrill.pdb
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\ArraysDrill\ArraysDrill\obj\Debug\ArraysDrill.csprojAssemblyReference.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\ArraysDrill\ArraysDrill\obj\Debug\ArraysDrill.csproj.CoreCompileInputs.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\ArraysDrill\ArraysDrill\obj\Debug\ArraysDrill.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\ArraysDrill\ArraysDrill\obj\Debug\ArraysDrill.pdb
