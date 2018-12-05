@@ -1,0 +1,7 @@
+C:\Users\gpaug\source\repos\TryCatchDrill\TryCatchDrill\bin\Debug\TryCatchDrill.exe.config
+C:\Users\gpaug\source\repos\TryCatchDrill\TryCatchDrill\bin\Debug\TryCatchDrill.exe
+C:\Users\gpaug\source\repos\TryCatchDrill\TryCatchDrill\bin\Debug\TryCatchDrill.pdb
+C:\Users\gpaug\source\repos\TryCatchDrill\TryCatchDrill\obj\Debug\TryCatchDrill.csprojAssemblyReference.cache
+C:\Users\gpaug\source\repos\TryCatchDrill\TryCatchDrill\obj\Debug\TryCatchDrill.csproj.CoreCompileInputs.cache
+C:\Users\gpaug\source\repos\TryCatchDrill\TryCatchDrill\obj\Debug\TryCatchDrill.exe
+C:\Users\gpaug\source\repos\TryCatchDrill\TryCatchDrill\obj\Debug\TryCatchDrill.pdb
