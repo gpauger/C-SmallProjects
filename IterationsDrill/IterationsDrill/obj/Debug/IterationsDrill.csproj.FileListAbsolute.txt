@@ -5,3 +5,10 @@ C:\Users\gpaug\source\repos\IterationsDrill\IterationsDrill\obj\Debug\Iterations
 C:\Users\gpaug\source\repos\IterationsDrill\IterationsDrill\obj\Debug\IterationsDrill.csproj.CoreCompileInputs.cache
 C:\Users\gpaug\source\repos\IterationsDrill\IterationsDrill\obj\Debug\IterationsDrill.exe
 C:\Users\gpaug\source\repos\IterationsDrill\IterationsDrill\obj\Debug\IterationsDrill.pdb
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\IterationsDrill\IterationsDrill\bin\Debug\IterationsDrill.exe.config
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\IterationsDrill\IterationsDrill\bin\Debug\IterationsDrill.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\IterationsDrill\IterationsDrill\bin\Debug\IterationsDrill.pdb
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\IterationsDrill\IterationsDrill\obj\Debug\IterationsDrill.csprojAssemblyReference.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\IterationsDrill\IterationsDrill\obj\Debug\IterationsDrill.csproj.CoreCompileInputs.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\IterationsDrill\IterationsDrill\obj\Debug\IterationsDrill.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\IterationsDrill\IterationsDrill\obj\Debug\IterationsDrill.pdb

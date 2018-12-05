@@ -46,13 +46,15 @@ namespace IterationsDrill
             { "Dan", "Daniel", "David", "Doug", "Dwight", "Dan", "David", "David", "Dave", };
             Console.WriteLine("Search this list of boys whose first names start with the letter D:");
             string namesearch = Console.ReadLine();
-            for (int c = 0; c < names.Count; c++)
+            for (int c = 0, hits = 0; c < names.Count; c++)
             {
                 if (names[c] == namesearch)
                 {
                     Console.WriteLine(namesearch + " is index number " + names.IndexOf(namesearch, c));
+                    hits++;
+
                 }
-                else if (c == names.Count - 1)
+                else if (c == names.Count - 1 && hits == 0)
                 {
                     Console.WriteLine("Sorry, that name is not on our list.");
                     break;
@@ -62,16 +64,15 @@ namespace IterationsDrill
             //part 11 creates a  list of strings and reports how many times it appears on the list.
             List<string> days = new List<string>()
             { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday", "Monday", "Tuesday" };
-           
+            List<string> checklist = new List<string>();
                 foreach (string day in days)
             {
-                int count = 0;
-                string daysearch = day;
-                for (int d = 0; d < names.Count; d++)
+                bool result = checklist.Contains(day);
+                if (result == true)
                 {
-                    if (daysearch == days[d]) { count++; }
+                    Console.WriteLine(day + " has already appeared on the list. ");
                 }
-                Console.WriteLine(day + ": " + count);
+                else { checklist.Add(day); }   
             } 
               
 
