@@ -7,9 +7,26 @@ using System.Threading.Tasks;
 namespace ClassDrill1
 {
     public class Class1
-    {
-        public double Result1 { get; set; }
-        public double Result2 { get; set; }
-        public double Result3 { get; set; }
+    {   //method 1, adding number to itself
+        public double AddedTo(double num1)
+        {
+            double result = num1 + num1;
+            
+            return result;
+        }
+        //method 2, multiply by itself
+        public double MultBy(double num1)
+        {
+            double result = num1 * num1;
+
+            return result;
+        }
+        //method 3, multiply by itself
+        public double PowerOf(double num1)
+        {
+            double result = Math.Pow(num1, num1);
+
+            return result;
+        }
     }
 }
