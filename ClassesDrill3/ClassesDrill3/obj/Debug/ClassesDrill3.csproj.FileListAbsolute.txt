@@ -1,0 +1,6 @@
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\SalesTaxCalc\SalesTaxCalc\bin\Debug\SalesTaxCalc.exe.config
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\SalesTaxCalc\SalesTaxCalc\bin\Debug\SalesTaxCalc.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\SalesTaxCalc\SalesTaxCalc\bin\Debug\SalesTaxCalc.pdb
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\SalesTaxCalc\SalesTaxCalc\obj\Debug\ClassesDrill3.csproj.CoreCompileInputs.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\SalesTaxCalc\SalesTaxCalc\obj\Debug\SalesTaxCalc.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\SalesTaxCalc\SalesTaxCalc\obj\Debug\SalesTaxCalc.pdb
