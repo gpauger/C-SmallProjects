@@ -1,0 +1,7 @@
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\ClassesDrill5\ClassesDrill5\bin\Debug\ClassesDrill5.exe.config
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\ClassesDrill5\ClassesDrill5\bin\Debug\ClassesDrill5.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\ClassesDrill5\ClassesDrill5\bin\Debug\ClassesDrill5.pdb
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\ClassesDrill5\ClassesDrill5\obj\Debug\ClassesDrill5.csprojAssemblyReference.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\ClassesDrill5\ClassesDrill5\obj\Debug\ClassesDrill5.csproj.CoreCompileInputs.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\ClassesDrill5\ClassesDrill5\obj\Debug\ClassesDrill5.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\ClassesDrill5\ClassesDrill5\obj\Debug\ClassesDrill5.pdb
