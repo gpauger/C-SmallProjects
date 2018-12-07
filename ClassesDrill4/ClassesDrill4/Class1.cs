@@ -9,7 +9,7 @@ namespace ClassesDrill4
     public class Class1
     {
         //creates method used in Program.cs
-        public void Combine(double num1, string num2)
+        public void Combine(double num1, string num2 = "default")
         {
             bool isNumeric = double.TryParse(num2, out double num2b);
             if (isNumeric == true)
