@@ -9,19 +9,12 @@ namespace ClassesDrill4
     public class Class1
     {
         //creates method used in Program.cs
-        public void Combine(double num1, string num2 = "default")
+        public void Combine(double num1, double num2 )
         {
-            bool isNumeric = double.TryParse(num2, out double num2b);
-            if (isNumeric == true)
-            {
-                double num3 = num1 + num2b;
-                Console.WriteLine("Your numbers added together equal: " + num3);
-            }
-            else
-            {
-                double num3 = num1 + num1;
-                Console.WriteLine("Your number added to itself is: " + num3);
-            }
+           
+                double num3 = num1 + num2;
+                Console.WriteLine("Some arbitrary math using your number(s) equals: " + num3);
+          
             
         }
     }

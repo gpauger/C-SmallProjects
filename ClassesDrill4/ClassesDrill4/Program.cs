@@ -13,7 +13,7 @@ namespace ClassesDrill4
             Console.WriteLine("Give me a number:");
             double num1 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Give me another number (optional) or just press enter:");
-            string num2 = Console.ReadLine();
+            bool ifSuccess = int.TryParse(Console.ReadLine(), out int num2);
             //instantiates the class
             Class1 n = new Class1();
             //Calls the method
