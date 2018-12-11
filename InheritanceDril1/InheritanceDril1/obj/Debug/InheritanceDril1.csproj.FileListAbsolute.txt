@@ -1,0 +1,7 @@
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\InheritanceDril1\InheritanceDril1\bin\Debug\InheritanceDril1.exe.config
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\InheritanceDril1\InheritanceDril1\bin\Debug\InheritanceDril1.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\InheritanceDril1\InheritanceDril1\bin\Debug\InheritanceDril1.pdb
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\InheritanceDril1\InheritanceDril1\obj\Debug\InheritanceDril1.csprojAssemblyReference.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\InheritanceDril1\InheritanceDril1\obj\Debug\InheritanceDril1.csproj.CoreCompileInputs.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\InheritanceDril1\InheritanceDril1\obj\Debug\InheritanceDril1.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\InheritanceDril1\InheritanceDril1\obj\Debug\InheritanceDril1.pdb
