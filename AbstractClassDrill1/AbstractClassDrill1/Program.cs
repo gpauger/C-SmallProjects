@@ -16,6 +16,19 @@ namespace AbstractClassDrill1
                 lastName = "Student"
             };
             sample.SayName();
+            
+         
+            Console.WriteLine("Would you like to quit? (y/n)");
+            
+            string response = Console.ReadLine();
+            bool ret = false;
+            if (response == "y")
+            { ret = true; }
+            else { ret = false; }
+
+            //create polymorphism IQuittable
+            IQuittable quitting = new Employee();
+            quitting.Quit(ret);
           
             Console.ReadLine();
         }
