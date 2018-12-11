@@ -17,7 +17,7 @@ namespace ClassesDrill4
             //instantiates the class
             Class1 n = new Class1();
             //Calls the method
-            n.Combine(num1, num2);
+            n.Combine(num1, opt2: num2);
             Console.ReadLine();
 
         }
