@@ -14,10 +14,21 @@ namespace InheritanceDril1
             Employee sample = new Employee()
             {
                 FirstName = "Sample",
-                LastName = "Student"
+                LastName = "Student",
+                Id = 8675309
+            };
+            Employee sample2 = new Employee()
+            {
+                FirstName = "Sample2",
+                LastName = "Student2",
+                Id = 8675309
             };
             //Calls the method SayName from class: Employee
             sample.SayName();
+            Console.WriteLine("ID: " + sample.Id);
+            Console.WriteLine("Two employees have the same ID number:");
+            //Calls the method from Employee.
+            Console.WriteLine(sample ==  sample2);
             Console.ReadLine();
         }
     }
