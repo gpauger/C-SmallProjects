@@ -1,0 +1,7 @@
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\GenericsDrill1\GenericsDrill1\bin\Debug\GenericsDrill1.exe.config
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\GenericsDrill1\GenericsDrill1\bin\Debug\GenericsDrill1.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\GenericsDrill1\GenericsDrill1\bin\Debug\GenericsDrill1.pdb
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\GenericsDrill1\GenericsDrill1\obj\Debug\GenericsDrill1.csprojAssemblyReference.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\GenericsDrill1\GenericsDrill1\obj\Debug\GenericsDrill1.csproj.CoreCompileInputs.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\GenericsDrill1\GenericsDrill1\obj\Debug\GenericsDrill1.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\GenericsDrill1\GenericsDrill1\obj\Debug\GenericsDrill1.pdb
