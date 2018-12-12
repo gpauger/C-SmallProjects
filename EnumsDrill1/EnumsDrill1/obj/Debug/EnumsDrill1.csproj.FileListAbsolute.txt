@@ -1,0 +1,7 @@
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\EnumsDrill1\EnumsDrill1\bin\Debug\EnumsDrill1.exe.config
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\EnumsDrill1\EnumsDrill1\bin\Debug\EnumsDrill1.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\EnumsDrill1\EnumsDrill1\bin\Debug\EnumsDrill1.pdb
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\EnumsDrill1\EnumsDrill1\obj\Debug\EnumsDrill1.csprojAssemblyReference.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\EnumsDrill1\EnumsDrill1\obj\Debug\EnumsDrill1.csproj.CoreCompileInputs.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\EnumsDrill1\EnumsDrill1\obj\Debug\EnumsDrill1.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\EnumsDrill1\EnumsDrill1\obj\Debug\EnumsDrill1.pdb
