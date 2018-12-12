@@ -1,0 +1,7 @@
+C:\Users\gpaug\source\repos\StructsDrill1\StructsDrill1\bin\Debug\StructsDrill1.exe.config
+C:\Users\gpaug\source\repos\StructsDrill1\StructsDrill1\bin\Debug\StructsDrill1.exe
+C:\Users\gpaug\source\repos\StructsDrill1\StructsDrill1\bin\Debug\StructsDrill1.pdb
+C:\Users\gpaug\source\repos\StructsDrill1\StructsDrill1\obj\Debug\StructsDrill1.csprojAssemblyReference.cache
+C:\Users\gpaug\source\repos\StructsDrill1\StructsDrill1\obj\Debug\StructsDrill1.csproj.CoreCompileInputs.cache
+C:\Users\gpaug\source\repos\StructsDrill1\StructsDrill1\obj\Debug\StructsDrill1.exe
+C:\Users\gpaug\source\repos\StructsDrill1\StructsDrill1\obj\Debug\StructsDrill1.pdb
