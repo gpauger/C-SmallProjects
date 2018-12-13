@@ -1,0 +1,7 @@
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\LambdaDrill1\LambdaDrill1\obj\Debug\LambdaDrill1.csprojAssemblyReference.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\LambdaDrill1\LambdaDrill1\obj\Debug\LambdaDrill1.csproj.CoreCompileInputs.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\LambdaDrill1\LambdaDrill1\bin\Debug\LambdaDrill1.exe.config
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\LambdaDrill1\LambdaDrill1\bin\Debug\LambdaDrill1.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\LambdaDrill1\LambdaDrill1\bin\Debug\LambdaDrill1.pdb
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\LambdaDrill1\LambdaDrill1\obj\Debug\LambdaDrill1.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\LambdaDrill1\LambdaDrill1\obj\Debug\LambdaDrill1.pdb
