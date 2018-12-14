@@ -1,0 +1,7 @@
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\InOutDrill1\InOutDrill1\bin\Debug\InOutDrill1.exe.config
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\InOutDrill1\InOutDrill1\bin\Debug\InOutDrill1.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\InOutDrill1\InOutDrill1\bin\Debug\InOutDrill1.pdb
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\InOutDrill1\InOutDrill1\obj\Debug\InOutDrill1.csprojAssemblyReference.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\InOutDrill1\InOutDrill1\obj\Debug\InOutDrill1.csproj.CoreCompileInputs.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\InOutDrill1\InOutDrill1\obj\Debug\InOutDrill1.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\InOutDrill1\InOutDrill1\obj\Debug\InOutDrill1.pdb
