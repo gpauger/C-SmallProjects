@@ -1,0 +1,7 @@
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\DateTimeDrill1\DateTimeDrill1\bin\Debug\DateTimeDrill1.exe.config
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\DateTimeDrill1\DateTimeDrill1\bin\Debug\DateTimeDrill1.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\DateTimeDrill1\DateTimeDrill1\bin\Debug\DateTimeDrill1.pdb
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\DateTimeDrill1\DateTimeDrill1\obj\Debug\DateTimeDrill1.csprojAssemblyReference.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\DateTimeDrill1\DateTimeDrill1\obj\Debug\DateTimeDrill1.csproj.CoreCompileInputs.cache
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\DateTimeDrill1\DateTimeDrill1\obj\Debug\DateTimeDrill1.exe
+C:\Users\gpaug\Dropbox\Tech Academy\C-SmallProjects\DateTimeDrill1\DateTimeDrill1\obj\Debug\DateTimeDrill1.pdb
