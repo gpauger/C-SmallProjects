@@ -8,14 +8,21 @@ namespace ConstDrill1
 {
     public class User
     {
-        public string name { get; set; }
-        public int ID { get; set; }
-        public int trials { get; set; }
+        public string Name;
+        public int ID;
+        public int Trials;
 
         public User(string name) : this(name, 8675309, 3)
-        { }
-        public User(string name, int ID, int trials)
-        { }
+        {
+            Name = name;
+
+        }
+        public User(string name, int iD, int trials)
+        {
+            Name = name;
+            ID = iD;
+            Trials = trials;
+        }
        
                 
     }

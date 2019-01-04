@@ -19,9 +19,9 @@ namespace ConstDrill1
             //can't figure out why this wont instantiate
             User user1 = new User(name); 
           
-            Console.WriteLine("Thanks " + user1.name);
+            Console.WriteLine("Thanks " + user1.Name);
             Console.WriteLine("Your ID is: " + user1.ID );
-            Console.WriteLine("You have " + user1.trials + " free trials remaining.");
+            Console.WriteLine("You have " + user1.Trials + " free trials remaining.");
             Console.ReadLine();
         }
          
